@@ -77,30 +77,14 @@ Uses HaveIBeenPwned API with k-anonymity:
 ---
 
 ## 📸 Screenshot
+<img width="1252" height="828" alt="image" src="https://github.com/user-attachments/assets/2002ffe2-d00c-4f44-8be5-ede566e54005" />
 
-(Add screenshot here after deployment)
-
----
-
-## ▶️ How to Run
-
-1. Clone the repo:
-
-```
-git clone https://github.com/YOUR_USERNAME/password-strength-analyzer.git
-```
-
-2. Open:
-
-```
-index.html
-```
 
 ---
 
 ## 🌐 Live Demo
 
-(Add GitHub Pages link here)
+https://whiteyyxx.github.io/Password-Strength-Analyzer/
 
 ---
 
