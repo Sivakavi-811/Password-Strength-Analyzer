@@ -1,4 +1,5 @@
 # 🔐 Password Strength Analyzer
+# 📈 Live Demo https://sivakavi-811.github.io/Password-Strength-Analyzer/
 
 An advanced password security analysis tool that evaluates password strength in real-time using entropy, pattern detection, and breach analysis.
 
@@ -78,13 +79,6 @@ Uses HaveIBeenPwned API with k-anonymity:
 
 ## 📸 Screenshot
 <img width="1252" height="828" alt="image" src="https://github.com/user-attachments/assets/2002ffe2-d00c-4f44-8be5-ede566e54005" />
-
-
----
-
-## 🌐 Live Demo
-
-https://whiteyyxx.github.io/Password-Strength-Analyzer/
 
 ---
 
